@@ -1,4 +1,4 @@
-# hustletownusa
+# hustletownusa.com
 sample website with CMS that generates HTML on the fly, including tracking and SEO optimization (really)
 <h1>Website:</h1>
 <img src="https://github.com/user-attachments/assets/d1f90ced-4593-4a3d-940b-824b59b9e779">
